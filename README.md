@@ -2,7 +2,7 @@
 
 Tableau visualisation: https://public.tableau.com/app/profile/ziming.lin/viz/SingaporeStatsfromOneMapAPI/Dashboard1
 
-![screenshot](github-link-to-gif-here)
+![screenshot](https://raw.githubusercontent.com/Ziming-Lin/OneMap-API/main/OneMap.gif)
 
 ## Usage
 
